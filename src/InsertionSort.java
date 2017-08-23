@@ -24,7 +24,7 @@ public class InsertionSort {
 	            }  
 	            arr[i+1] = temp;  
 	        } 
-		 System.out.println("Sorted Array");
+		 System.out.println("The Sorted Array");
 		    for(i=0;i<n;i++)
 	 		{
 	        	 System.out.println(arr[i]);
