@@ -7,7 +7,7 @@ public class InsertionSort {
 	public static void main(String[] args)throws IOException {
 		BufferedReader br=new BufferedReader(new InputStreamReader(System.in));
 		int n,i,j;
-		System.out.println("Enter the Size of the array");
+		System.out.println("Enter the Size of the Array");
 		n=Integer.parseInt(br.readLine());
 		System.out.println("Enter "+n+" elements");
 		int arr[]= new int[n];
